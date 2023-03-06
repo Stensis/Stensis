@@ -1,4 +1,3 @@
-[![MasterHead]([https://drive.google.com/file/d/1X62LZ47_ZR17uoTOkG4xZAaxYkjTKtxC/view?usp=sharing](https://www.dropbox.com/s/rnhdbkaun555ega/Hi%2C%20I%27M.jpg?dl=0))](https://irenenjuguna.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stensis&label=Profile%20views&color=0e75b6&style=flat" alt="stensis" /> </p>
 <h1 align="center">Hi 👋, I'm Irene Njuguna</h1>
 
@@ -10,7 +9,7 @@
 
 - 📫 How to reach me **irenenjuguna98@gmail.com**
 
-### 🌐 Social:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/irene-njuguna98) 
 
 <h3 align="left">Languages and Tools:</h3>
