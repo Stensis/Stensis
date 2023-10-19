@@ -3,9 +3,9 @@
 
 <h3 align="center">A passionate fullstack developer from Nairobi,Kenya</h3>
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Javascript,React.js,Ruby,Ruby on Rails**
+- 💬 Ask me about **Javascript,React.js, React Native, Typescript, Ruby, Ruby on Rails**
 
 - 📫 How to reach me **irenenjuguna98@gmail.com**
 
