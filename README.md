@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Javascript,React.js, React Native, Typescript, Ruby, Ruby on Rails**
+- 💬 Ask me about **Javascript, Ruby, Ruby on Rails**
 
 - 📫 How to reach me **irenenjuguna98@gmail.com**
 
