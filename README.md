@@ -1,33 +1,130 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stensis&label=Profile%20views&color=0e75b6&style=flat" alt="stensis" /> </p>
-<h1 align="center">Hi 👋, I'm Irene Njuguna</h1>
+<!-- =========================
+✨ Irene Njuguna | GitHub Profile README (Outdo Version)
+Copy-paste into README.md
+========================= -->
 
-<h3 align="center">A passionate fullstack developer from Nairobi,Kenya</h3>
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Irene%20Njuguna&fontAlign=50&fontAlignY=40&fontSize=60&desc=Full-Stack%20Engineer%20%7C%20AI%20Explorer%20%7C%20Cloud%20Builder&descAlign=50&descAlignY=65&animation=twinkling&color=0:7F5AF0,100:2CB67D" />
+</p>
 
-- 🌱 I’m currently learning **Java**
+<!-- Quick badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stensis&label=Profile%20Views&color=7F5AF0&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems-2CB67D?style=flat" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node%20%7C%20Prisma-1F6FEB?style=flat" />
+</p>
 
-- 💬 Ask me about **Javascript, Ruby, Ruby on Rails**
+<!-- Animated typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=650&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Irene+Njuguna+%F0%9F%91%8B%F0%9F%8F%BD;Full-Stack+Software+Engineer+from+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Building+Products+%7C+Cloud+%7C+AI-Driven+Features;Always+Learning.+Always+Shipping." />
+</p>
 
-- 📫 How to reach me **irenenjuguna98@gmail.com**
+<!-- Intro -->
+<p align="center">
+  I build <b>production-ready</b> web & mobile apps — and I’m currently studying <b>AI concepts</b> (LLMs, recommender systems, applied ML) to build smarter products.
+  <br/>
+  I care about <b>clean architecture</b>, <b>great UX</b>, and <b>systems that scale</b>.
+</p>
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/irene-njuguna98) 
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- Socials -->
+<h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+  <a href="mailto:irenenjuguna98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-irenenjuguna98%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/irene-njuguna98">
+    <img src="https://img.shields.io/badge/LinkedIn-Irene%20Njuguna-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Stensis">
+    <img src="https://img.shields.io/badge/GitHub-Stensis-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stensis&show_icons=true&locale=en&layout=compact" alt="stensis" /></p>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stensis&show_icons=true&locale=en" alt="stensis" /></p>
+<!-- Now -->
+<h2>🚀 What I’m Doing Right Now</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stensis&" alt="stensis" /></p>
+- 🧠 **Reading AI stuff:** LLMs, embeddings, recommender systems, applied ML, AI product design  
+- 🧪 Experimenting with **AI features**: search, personalization, automation, smart ranking  
+- ⚙️ Building **full-stack apps** with **React / React Native / Node / Prisma**  
+- ☁️ Shipping & deploying with **AWS, Railway, Cloudflare, Nginx, CI/CD**  
+- 🔐 Interested in **security-minded engineering** (DevSecOps vibes)
 
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stensis" alt="stensis" /></a> </p>
+<hr/>
 
->
+<!-- Tech Stack -->
+<h2>🧰 Tech Stack</h2>
 
+<p>
+  <b>Frontend:</b> React, Next.js, React Native, Tailwind, Material UI<br/>
+  <b>Backend:</b> Node.js, Express, Prisma, REST APIs<br/>
+  <b>Data:</b> PostgreSQL, MongoDB<br/>
+  <b>Cloud/DevOps:</b> AWS, Docker, Nginx, CI/CD<br/>
+  <b>AI Learning:</b> LLM basics, embeddings, ranking, applied ML patterns
+</p>
 
-<!-- <img
-  src="https://github.com/Stensis/Stensis/blob/main/images/stat.svg"
-  alt="Irene wakatime activity"
-/> -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" />
+</p>
+
+<hr/>
+
+<!-- Featured Projects (you can edit links/titles) -->
+<h2>🔥 Featured Work</h2>
+
+<p>
+  ⭐ I’m building and shipping real-world products (e-commerce / food delivery / fintech-style flows).  
+  <br/>Pin your best repositories on your GitHub profile so they appear here visually.
+</p>
+
+<ul>
+  <li>🍕 <b>Square Pizza</b> — Full-stack ordering system (cart, checkout, payments, delivery logic)</li>
+  <li>☁️ <b>Cloud Deployments</b> — AWS + Nginx + CI/CD pipelines for production apps</li>
+  <li>🤖 <b>AI Experiments</b> — building blocks for smarter product features</li>
+</ul>
+
+<hr/>
+
+<!-- GitHub Stats (consistent theme) -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stensis&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stensis&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stensis&theme=radical&hide_border=true" />
+</p>
+
+<hr/>
+
+<!-- Trophies -->
+<h2 align="center">🏆 Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=stensis&theme=discord&no-frame=true&row=1&margin-w=10" />
+</p>
+
+<hr/>
+
+<!-- Fun footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=Always%20Learning%20%E2%9A%A1%20Always%20Building%20%F0%9F%9A%80&fontSize=28&color=0:2CB67D,100:7F5AF0&animation=fadeIn" />
+</p>
