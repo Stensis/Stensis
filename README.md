@@ -1,130 +1,312 @@
-<!-- =========================
-✨ Irene Njuguna | GitHub Profile README (Outdo Version)
-Copy-paste into README.md
-========================= -->
+<!-- =========================================================
+✨ Irene Njuguna | GitHub Profile README
+Software Engineering + QA + Test Automation
+========================================================= -->
 
-<!-- Hero Banner -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Irene%20Njuguna&fontAlign=50&fontAlignY=40&fontSize=60&desc=Full-Stack%20Engineer%20%7C%20AI%20Explorer%20%7C%20Cloud%20Builder&descAlign=50&descAlignY=65&animation=twinkling&color=0:7F5AF0,100:2CB67D" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F5AF0,100:2CB67D&text=Irene%20Njuguna&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20QA%20Engineer%20%7C%20Test%20Automation&descAlignY=60&descSize=20"
+    alt="Irene Njuguna - Software Engineer, QA Engineer and Test Automation"
+  />
 </p>
 
-<!-- Quick badges -->
+<!-- BADGES -->
 <p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=stensis&label=Profile%20Views&color=7F5AF0&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems-2CB67D?style=flat" />
+
+  <img src="https://img.shields.io/badge/QA-Manual%20%26%20Automation-2CB67D?style=flat" />
+
+  <img src="https://img.shields.io/badge/Automation-Playwright-45BA4B?logo=playwright&logoColor=white&style=flat" />
+
+  <img src="https://img.shields.io/badge/API-Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
+
+  <img src="https://img.shields.io/badge/Certified-ISTQB%20CTFL-1F6FEB?style=flat" />
+
   <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node%20%7C%20Prisma-1F6FEB?style=flat" />
+
 </p>
 
-<!-- Animated typing -->
+<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=650&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Irene+Njuguna+%F0%9F%91%8B%F0%9F%8F%BD;Full-Stack+Software+Engineer+from+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Building+Products+%7C+Cloud+%7C+AI-Driven+Features;Always+Learning.+Always+Shipping." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Irene+Njuguna+%F0%9F%91%8B%F0%9F%8F%BD;Software+Engineer+%2B+QA+Engineer;Manual+Testing+%7C+API+Testing+%7C+Test+Automation;Playwright+%7C+TypeScript+%7C+Postman;Building+Software+and+Breaking+It+Before+Users+Do+%F0%9F%98%84" />
 </p>
 
-<!-- Intro -->
+<!-- INTRO -->
 <p align="center">
-  I build <b>production-ready</b> web & mobile apps — and I’m currently studying <b>AI concepts</b> (LLMs, recommender systems, applied ML) to build smarter products.
-  <br/>
-  I care about <b>clean architecture</b>, <b>great UX</b>, and <b>systems that scale</b>.
+  I’m a <b>Software Engineer and QA Engineer</b> based in Nairobi, Kenya 🇰🇪
+  with experience working on <b>web, mobile, fintech, API, and Web3 applications</b>.
+</p>
+
+<p align="center">
+  My software engineering background helps me approach quality beyond the UI —
+  understanding APIs, application behaviour, integrations, network requests,
+  frontend logic, and how systems interact.
+</p>
+
+<p align="center">
+  I enjoy building reliable software, investigating defects,
+  designing effective tests, and automating repeatable testing workflows.
 </p>
 
 <hr/>
 
-<!-- Socials -->
+<!-- CONNECT -->
 <h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
+
   <a href="mailto:irenenjuguna98@gmail.com">
     <img src="https://img.shields.io/badge/Email-irenenjuguna98%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
+
   <a href="https://linkedin.com/in/irene-njuguna98">
     <img src="https://img.shields.io/badge/LinkedIn-Irene%20Njuguna-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
+
   <a href="https://github.com/Stensis">
     <img src="https://img.shields.io/badge/GitHub-Stensis-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
+
+</p>
+
+<p align="center">
+  🌐 <a href="https://irenenjugunaportfolio.vercel.app"><b>Software Engineering Portfolio</b></a>
+  &nbsp; | &nbsp;
+  🧪 <a href="https://irenenjugunasdet-portfolio.vercel.app/"><b>QA / SDET Portfolio</b></a>
 </p>
 
 <hr/>
 
-<!-- Now -->
-<h2>🚀 What I’m Doing Right Now</h2>
+<!-- ABOUT -->
+<h2>👩🏽‍💻 About Me</h2>
 
-- 🧠 **Reading AI stuff:** LLMs, embeddings, recommender systems, applied ML, AI product design  
-- 🧪 Experimenting with **AI features**: search, personalization, automation, smart ranking  
-- ⚙️ Building **full-stack apps** with **React / React Native / Node / Prisma**  
-- ☁️ Shipping & deploying with **AWS, Railway, Cloudflare, Nginx, CI/CD**  
-- 🔐 Interested in **security-minded engineering** (DevSecOps vibes)
+- 🧪 Software QA Engineer with experience in **manual and automated testing**
+- 💻 Software engineering background in **JavaScript, TypeScript, React, React Native & Next.js**
+- 🌐 Testing **web, mobile, APIs, fintech and integration-heavy applications**
+- 🔍 Experienced in **functional, regression, smoke, exploratory, integration and cross-browser testing**
+- 🤖 Building test automation using **Playwright + TypeScript**
+- 🔌 API testing using **Postman & Newman**
+- 🐞 Comfortable investigating defects using **Chrome DevTools, network requests, API responses and application behaviour**
+- 📋 Experienced in **test case design, requirements analysis, defect reporting, retesting and release validation**
+- ☁️ Experience with **AWS, CI/CD and GitHub Actions**
+- 🎓 **ISTQB Certified Tester – Foundation Level (CTFL v4.0)**
+- 🧠 Exploring **AI-assisted testing, LLMs and intelligent software systems**
 
 <hr/>
 
-<!-- Tech Stack -->
-<h2>🧰 Tech Stack</h2>
+<!-- QA -->
+<h2>🧪 Quality Assurance & Testing</h2>
+
+### Manual Testing
+
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Exploratory Testing
+- Integration Testing
+- End-to-End Testing
+- UI Testing
+- Mobile Testing
+- Cross-Browser Testing
+- API Testing
+- Requirements Analysis
+- Test Case & Test Scenario Design
+- Defect Reporting & Tracking
+- Retesting
+- Release Validation
+
+### Test Automation
+
+- Playwright
+- TypeScript
+- Page Object Model
+- Data-driven testing
+- Automated regression testing
+- HTML test reports
+- API validation
+- CI/CD test execution
+
+### QA Tools
 
 <p>
-  <b>Frontend:</b> React, Next.js, React Native, Tailwind, Material UI<br/>
-  <b>Backend:</b> Node.js, Express, Prisma, REST APIs<br/>
-  <b>Data:</b> PostgreSQL, MongoDB<br/>
-  <b>Cloud/DevOps:</b> AWS, Docker, Nginx, CI/CD<br/>
-  <b>AI Learning:</b> LLM basics, embeddings, ranking, applied ML patterns
+
+<img src="https://img.shields.io/badge/Playwright-45BA4B?logo=playwright&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?logo=googlechrome&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+
+</p>
+
+<hr/>
+
+<!-- ENGINEERING -->
+<h2>💻 Software Engineering</h2>
+
+<p>
+<b>Languages:</b>
+JavaScript, TypeScript, Python
+<br/><br/>
+
+<b>Frontend:</b>
+React, React Native, Next.js, HTML, CSS, Tailwind CSS, Material UI
+<br/><br/>
+
+<b>APIs:</b>
+REST APIs, JSON, Authentication Flows, API Integrations
+<br/><br/>
+
+<b>Databases:</b>
+PostgreSQL, MySQL, MongoDB
+<br/><br/>
+
+<b>Cloud & DevOps:</b>
+AWS, GitHub Actions, CI/CD, Linux
+<br/><br/>
+
+<b>Collaboration:</b>
+Git, GitHub, Jira, Slack, Agile/Scrum
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" />
+
 </p>
 
 <hr/>
 
-<!-- Featured Projects (you can edit links/titles) -->
-<h2>🔥 Featured Work</h2>
+<!-- CURRENT -->
+<h2>🚀 What I'm Working On</h2>
 
-<p>
-  ⭐ I’m building and shipping real-world products (e-commerce / food delivery / fintech-style flows).  
-  <br/>Pin your best repositories on your GitHub profile so they appear here visually.
-</p>
-
-<ul>
-  <li>🍕 <b>Square Pizza</b> — Full-stack ordering system (cart, checkout, payments, delivery logic)</li>
-  <li>☁️ <b>Cloud Deployments</b> — AWS + Nginx + CI/CD pipelines for production apps</li>
-  <li>🤖 <b>AI Experiments</b> — building blocks for smarter product features</li>
-</ul>
+- 🧪 Building **Playwright + TypeScript automation projects**
+- 🔌 Testing REST APIs using **Postman & Newman**
+- 📋 Improving test design using **positive, negative, boundary and edge-case scenarios**
+- 🔍 Practising defect investigation and root-cause analysis
+- 💻 Building and testing full-stack applications
+- ☁️ Improving my knowledge of AWS, Linux and CI/CD
+- 🤖 Exploring **AI-assisted software testing and intelligent applications**
 
 <hr/>
 
-<!-- GitHub Stats (consistent theme) -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- QA PROJECTS -->
+<h2>🧪 QA & Test Automation Projects</h2>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stensis&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stensis&layout=compact&theme=radical&hide_border=true" />
-</p>
+### 🏦 ParaBank E2E Test Automation
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stensis&theme=radical&hide_border=true" />
-</p>
+Automated end-to-end testing project built using:
+
+- Playwright
+- TypeScript
+- Page Object Model
+- Reusable test components
+- Positive and negative test scenarios
+- Boundary and validation testing
+- Automated regression testing
+- HTML reporting
+
+Test coverage includes workflows such as authentication, account interactions,
+form validation and transactional user journeys.
+
+---
+
+### 🔌 DummyJSON API Testing
+
+REST API testing project using **Postman + Newman**.
+
+<a href="https://github.com/Stensis/dummyjson-api-testing-postman">
+  <img src="https://img.shields.io/badge/View_Project-DummyJSON_API_Testing-181717?logo=github&logoColor=white&style=for-the-badge" />
+</a>
+
+Testing includes:
+
+- GET / POST / PUT / DELETE requests
+- Status-code validation
+- Response-body validation
+- JSON validation
+- Positive and negative scenarios
+- Environment variables
+- Automated collection execution using Newman
 
 <hr/>
 
-<!-- Trophies -->
-<h2 align="center">🏆 Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stensis&theme=discord&no-frame=true&row=1&margin-w=10" />
-</p>
+<!-- DEVELOPMENT PROJECTS -->
+<h2>🔥 Software Engineering Projects</h2>
+
+### 🍕 Full-Stack Applications
+
+Building real-world applications involving:
+
+- Authentication
+- REST API integrations
+- Shopping / ordering workflows
+- Payments
+- Responsive user interfaces
+- Mobile and web experiences
+
+### 💳 Fintech Experience
+
+Worked with financial integrations and payment APIs including:
+
+- M-Pesa
+- Paystack
+- PNGme
+- OCTET
+
+with experience testing and integrating transaction-based workflows.
 
 <hr/>
 
-<!-- Fun footer -->
+<!-- CERTIFICATIONS -->
+<h2>🎓 Certifications</h2>
+
+- 🧪 **ISTQB Certified Tester – Foundation Level (CTFL v4.0)** — 2026
+- 🧪 **Introduction to Software Testing** — Kiwami, 2026
+- ☁️ **AWS Certified Cloud Practitioner** — 2025
+- 🔌 **Postman API Fundamentals Student Expert** — 2024
+- ⚛️ **React Learning Program — Andela**
+- ☁️ **Oracle Cloud Infrastructure Associate**
+- 🔷 **TypeScript in a Nutshell — Microsoft**
+
+<hr/>
+
+<!-- PHILOSOPHY -->
+<h2>💡 How I Approach Quality</h2>
+
+> Quality is not only about finding bugs after development.
+>
+> It starts with understanding requirements, identifying risks,
+> asking the right questions, designing meaningful tests,
+> investigating failures and collaborating with the team
+> to prevent issues from reaching users.
+
+<hr/>
+
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=Always%20Learning%20%E2%9A%A1%20Always%20Building%20%F0%9F%9A%80&fontSize=28&color=0:2CB67D,100:7F5AF0&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=Build%20It%20%E2%9A%99%EF%B8%8F%20Test%20It%20%F0%9F%A7%AA%20Improve%20It%20%F0%9F%9A%80&fontSize=27&color=0:2CB67D,100:7F5AF0&animation=fadeIn" />
 </p>
